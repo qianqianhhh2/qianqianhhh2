@@ -74,7 +74,7 @@
 
 ---
 
-## 📌 Pinned Repos (Manual)
+## 📌 Pinned Repos
 
 > Personally, I am most proud at present..
 
