@@ -64,14 +64,6 @@
 
 ---
 
-## 🌈 3D Contribution Graph (Auto Updates Daily)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/qianqianhhh2/qianqianhhh2/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
----
-
 ## ⭐ Featured Project
 
 <div align="center">
