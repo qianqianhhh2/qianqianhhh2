@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://t.alcy.cc/" width="100%" />
+  <img src="https://github.com/qianqianhhh2/qianqianhhh2/blob/main/bg.jpg" width="100%" />
 </p>
 
 <p align="center">
