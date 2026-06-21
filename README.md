@@ -1,49 +1,104 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=headerText" width="100%" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Qianqian%20TWT&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Android%20Developer%20%7C%20High%20School%20Student%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
+</p>
 
-<!-- 头像与核心身份 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B+I'm+qianqianhhh2;Android+Developer+(Kotlin+%2F+Java);Building+%5Bjianyin%5D(https%3A%2F%2Fgithub.com%2Fqianqianhhh2%2Fjianyin);Always+learning%2C+always+breaking+things;What+did+you+code+today%3F" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/qianqianhhh2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:qianqianhhh2@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- Add other social links here if needed -->
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qianqianhhh2&label=Profile%20Views&color=7C3AED&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/qianqianhhh2?label=Followers&style=flat-square&color=06B6D4" />
+</p>
+
+---
+
+## 🖥️ About Me
+
+- 🔭 **Current project**: [`jianyin`](https://github.com/qianqianhhh2/jianyin) — my main creation
+- 🌱 **Learning**: Android Development (Kotlin, Jetpack Compose), Git & Linux
+- 💬 **Ask me about**: Android basics, Kotlin, or how to start coding
+- ⚡ **Fun fact**: I'm still in high school but already obsessed with building apps
+- 🎯 **Goal**: Ship useful things, one commit at a time
+
+---
+
+## 🛠️ Skills & Tools
+
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/114570634?s=400&u=5f8c5f8c5f8c5f8c5f8c5f8c5f8c5f8c5f8c5f8c&v=4" width="150" style="border-radius: 50%; border: 4px solid #30363d; margin-bottom: 10px;" />
-  <h1 style="font-family: 'Times New Roman', monospace; color: #58a6ff; letter-spacing: 2px;">谦谦TWT</h1>
-  <h2 style="font-family: monospace; color: #c9d1d9;">Android Developer & Tech Enthusiast</h2>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,git,github,linux,html,css,js,python,flutter&perline=6" />
 </div>
 
 ---
 
-### 🖥️ Terminal - About Me
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Qianqian+(谦谦);High+school+student+and+tech+enthusiast.;Confused+but+always+exploring.;What+did+you+do+today?;Currently+focusing+on+Android+Development+(Kotlin/Java).;Welcome+to+my+GitHub+homepage!" 
-       alt="Typing SVG" 
-       height="150" 
-       width="600" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qianqianhhh2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianqianhhh2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
+</div>
 
+<br />
 
----
-
-### 🛠️ My Skill Tree (Animated)
-
-<p align="center">
-  <img src="https://readme-jank-free.vercel.app/api/progress?username=qianqianhhh2&skills=HTML/CSS,JavaScript,Kotlin,Java,Flutter,Node.js,Linux,Python&colors=58a6ff,58a6ff,58a6ff,58a6ff,58a6ff,58a6ff,58a6ff,58a6ff&bg=161b22" 
-       alt="Animated Skill Tree" 
-       width="90%" />
-
-
-*(Note: The bar above animates from 0% to the target percentage when loaded)*
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qianqianhhh2&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qianqianhhh2&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qianqianhhh2&theme=tokyonight" width="32%" />
+</div>
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🐍 Contribution Snake (Auto Updates Daily)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qianqianhhh2/qianqianhhh2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qianqianhhh2/qianqianhhh2/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/qianqianhhh2/qianqianhhh2/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+---
+
+## 🌈 3D Contribution Graph (Auto Updates Daily)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/qianqianhhh2/qianqianhhh2/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+---
+
+## ⭐ Featured Project
+
+<div align="center">
+  <a href="https://github.com/qianqianhhh2/jianyin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qianqianhhh2&repo=jianyin&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
+</div>
+
+---
+
+## 📌 Pinned Repos (Manual)
+
+> These are shown on your profile anyway – but feel free to add extra highlights below.
+
+<div align="center">
+  <a href="https://github.com/qianqianhhh2/jianyin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qianqianhhh2&repo=jianyin&theme=tokyonight&hide_border=true" />
+  </a>
+  <!-- Add more pinned repos by copying the block above -->
+</div>
+
+---
 
 <p align="center">
-  <!-- 总览统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=qianqianhhh2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
-       alt="GitHub Stats" 
-       height="180" 
-       style="margin-right: 10px;" />
-  
-  <!-- 贡献热力图 -->
-  <img src="https://github-contrib-stats.vercel.app/api?username=qianqianhhh2&theme=tokyonight&show_icons=true&hide_border=true" 
-       alt="Contribution Graph" 
-       height="180" />
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" />
+</p>
