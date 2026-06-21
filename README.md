@@ -54,7 +54,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Updates Daily)
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qianqianhhh2/qianqianhhh2/output/github-contribution-grid-snake-dark.svg">
@@ -76,7 +76,7 @@
 
 ## 📌 Pinned Repos (Manual)
 
-> These are shown on your profile anyway – but feel free to add extra highlights below.
+> Personally, I am most proud at present..
 
 <div align="center">
   <a href="https://github.com/qianqianhhh2/jianyin">
