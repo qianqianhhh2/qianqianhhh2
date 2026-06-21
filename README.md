@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Qianqian%20TWT&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Android%20Developer%20%7C%20High%20School%20Student%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B+I'm+qianqianhhh2;Android+Developer+(Kotlin+%2F+Java);Building+%5Bjianyin%5D(https%3A%2F%2Fgithub.com%2Fqianqianhhh2%2Fjianyin);Always+learning%2C+always+breaking+things;What+did+you+code+today%3F" />
 </p>
 
@@ -89,8 +85,4 @@
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" />
 </p>
