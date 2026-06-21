@@ -1,90 +1,49 @@
-<h1 align="center">hi there 👋 I'm qianqianhhh2</h1>
-<p align="center">
-  <i>Building cool stuff, one commit at a time 🚀</i>
-</p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=headerText" width="100%" />
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qianqianhhh2&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/qianqianhhh2?label=Followers&style=flat-square&color=0e75b6"/>
-</p>
-
----
-
-## 🧸 About Me
-
-- 🔭 Currently working on **[jianyin](https://github.com/qianqianhhh2/jianyin)** — my featured project
-- 🌱 Learning & exploring new tech, one rabbit hole at a time
-- 💬 Ask me about anything — the worst I can say is "I don't know (yet)"
-- ⚡ Fun fact: **I don't write bugs. The compiler just occasionally disagrees.** ☕
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=qianqianhhh2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=ebb724&title_color=6cace4" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianqianhhh2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qianqianhhh2&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## ⭐ Featured Project
-
+<!-- 头像与核心身份 -->
 <div align="center">
-  <a href="https://github.com/qianqianhhh2/jianyin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qianqianhhh2&repo=jianyin&theme=tokyonight&hide_border=true&title_color=6cace4&icon_color=ebb724" />
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/114570634?s=400&u=5f8c5f8c5f8c5f8c5f8c5f8c5f8c5f8c5f8c5f8c&v=4" width="150" style="border-radius: 50%; border: 4px solid #30363d; margin-bottom: 10px;" />
+  <h1 style="font-family: 'Times New Roman', monospace; color: #58a6ff; letter-spacing: 2px;">谦谦TWT</h1>
+  <h2 style="font-family: monospace; color: #c9d1d9;">Android Developer & Tech Enthusiast</h2>
 </div>
 
 ---
 
-## 🌐 Find Me
-
-<p align="left">
-  <!-- Email (edit if you want) -->
-  <a href="mailto:qianqianhhh2@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Add your real social links below — uncomment & fill in -->
-  <!--
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourname">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourblog.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=firefox&logoColor=white" />
-  </a>
-  -->
-</p>
+### 🖥️ Terminal - About Me
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-</p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Qianqian+(谦谦);High+school+student+and+tech+enthusiast.;Confused+but+always+exploring.;What+did+you+do+today?;Currently+focusing+on+Android+Development+(Kotlin/Java).;Welcome+to+my+GitHub+homepage!" 
+       alt="Typing SVG" 
+       height="150" 
+       width="600" />
+
+
+---
+
+### 🛠️ My Skill Tree (Animated)
+
+<p align="center">
+  <img src="https://readme-jank-free.vercel.app/api/progress?username=qianqianhhh2&skills=HTML/CSS,JavaScript,Kotlin,Java,Flutter,Node.js,Linux,Python&colors=58a6ff,58a6ff,58a6ff,58a6ff,58a6ff,58a6ff,58a6ff,58a6ff&bg=161b22" 
+       alt="Animated Skill Tree" 
+       width="90%" />
+
+
+*(Note: The bar above animates from 0% to the target percentage when loaded)*
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <!-- 总览统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=qianqianhhh2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
+       alt="GitHub Stats" 
+       height="180" 
+       style="margin-right: 10px;" />
+  
+  <!-- 贡献热力图 -->
+  <img src="https://github-contrib-stats.vercel.app/api?username=qianqianhhh2&theme=tokyonight&show_icons=true&hide_border=true" 
+       alt="Contribution Graph" 
+       height="180" />
